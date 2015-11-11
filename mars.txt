@@ -1,0 +1,2 @@
+This is a new file, i can type whatever I want in here
+control o is save
